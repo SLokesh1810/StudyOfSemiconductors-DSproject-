@@ -14,6 +14,7 @@ Dataset Characteristics:
 - Source: Corizo
 - Format: CSV
 - Size: 1567 rows 538 columns
+- Domain: Semiconductor manufacturing (sensor data)
 
 Tools and Modules used:
 - Google Colab (Python)
